@@ -50,7 +50,7 @@ ScrollReveal().reveal('.home-content p, .about-content ', {origin:'right' });
 
 /*============ type js ==========*/
 const typed = new Typed ('.multiple-text',{
-    strings: ['Página Web', 'Tienda en línea', 'Identidad Corporativa ']
+    strings: ['Página Web', 'Tienda en Línea', 'Identidad Corporativa ']
 
 
   
